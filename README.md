@@ -42,3 +42,4 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details [here](https://www.gnu.org/licenses/)
 
 ## Acknowledgments
+This work was supported by the project consortiums of the research projects Fine ("Flexible Integration of Local Energy Communities into the Norwegian Electricity Distribution System") funded by the Research Council of Norway under Grant 308833. This work is also funded by CINELDI - Centre for intelligent electricity distribution, an 8 year Research Centre under the FME-scheme (Centre for Environment-friendly Energy Research, 257626/E20). The authors gratefully acknowledge the financial support from the Research Council of Norway and the CINELDI partners.
