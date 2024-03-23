@@ -1,0 +1,16 @@
+{
+  "scaling_factor": 1,
+  "size": 150,
+  "Sbase": 10000,
+  "Base_KVA": 10000,
+  "V_base": 12.66,
+  "PV_threshold": 0.011,
+  "busvolt": 18,
+  "voltagelimit": 1.05,
+  "start_hour": 3600,
+  "data_hour": 12,
+  "case_file": "data/case33bw.m",
+  "time_series_file": "data/load_customer.xlsx",
+  "peak_data_file": "data/load_data_33.xlsx",
+  "PV_data_file": "data/Oslo_2019_40_south.xlsx"
+}
