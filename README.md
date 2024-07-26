@@ -1,4 +1,4 @@
-# Optimal Power Flow (OPF) for PV Generation and Voltage Regulation
+# Optimal Power Flow (OPF) for maximizing PV Generation and Voltage Regulation
 
 ## Project Description
 
